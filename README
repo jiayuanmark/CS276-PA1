@@ -1,0 +1,2 @@
+This is the first programming assignment for CS276 at Stanford.
+CS276 is an course named "Introduction to Information Retrieval" taught by Prof. Chris Manning. This assignment asks to build an inverted index for boolean retrieval (task 1), with index compression using variable byte encoding (task 2) and gamma encoding (extra credit).
